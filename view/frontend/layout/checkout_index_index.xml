@@ -58,7 +58,7 @@
                                                                     <item name="sortOrder" xsi:type="string">30</item>
                                                                     <item name="config" xsi:type="array">
                                                                         <item name="inputMask" xsi:type="array">
-                                                                            <item name="mask" xsi:type="string">(00) 0000-0000</item>
+                                                                             <item name="mask" xsi:type="string">(00) 00000-0000</item>
                                                                         </item>
                                                                     </item>
                                                                 </item>
